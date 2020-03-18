@@ -1,2 +1,1 @@
-We are going to record some git commands here.
-Come on a1.
+We are going to record some git commands here. and so onCome on a1.
